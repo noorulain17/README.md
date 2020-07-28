@@ -21,4 +21,4 @@
 Technologies I enjoy working with include **iOS** (`Objective C`, `Swift`, `ReactNative`) and **Android** (`Java`, `Kotlin`)
 
 
-<img  width="300" src="https://raw.githubusercontent.com/noorulain17/noorulain17/master/bg_noor_life.jpg" alt="Noor life at a glance">
+[![Noor's github stats](https://github-readme-stats.vercel.app/api?username=noorulain17&show_icons=true&count_private=true)](https://github.com/noorulain17/github-readme-stats)
