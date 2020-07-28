@@ -11,9 +11,19 @@ I consider myself as a backstage performer.
 
 Technologies I enjoy working with include **iOS** (`Objective C`, `Swift`, `ReactNative`) and **Android** (`Java`, `Kotlin`)
 
-## About Me:
-- <a href="https://about.me/noorulainalisiddiqui">About Me</a>
-- <a href="https://stackoverflow.com/users/4439983/noor">Stack Overflow</a> 
-- <a href="https://twitter.com/noorulain_ali">Twitter</a> 
-- <a href="https://www.linkedin.com/in/noorulainalisiddiqui/">LinkedIn</a> 
-- <a href="https://www.reddit.com/user/noorulain17/">Reddit</a> 
+### About Me:
+<a href="https://www.linkedin.com/in/noorulainalisiddiqui/">
+<img align="left" alt="Noor's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://about.me/noorulainalisiddiqui">
+<img align="left" alt="Noor's About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/about-dot-me.svg" />
+</a>
+<a href="https://twitter.com/noorulain_ali">
+<img align="left" alt="Noor's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://stackoverflow.com/users/4439983/noor/">
+<img align="left" alt="Noor's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="https://www.reddit.com/user/noorulain17/">
+<img align="left" alt="Noor's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
